@@ -1,0 +1,2570 @@
+{
+    "1.jpg": {
+        "timestamp": "2024-10-29T11:18:03.287659",
+        "features": null,
+        "classifications": [
+            {
+                "label": "menu",
+                "confidence": 0.40423551201820374
+            },
+            {
+                "label": "web_site",
+                "confidence": 0.39191433787345886
+            },
+            {
+                "label": "envelope",
+                "confidence": 0.049828313291072845
+            }
+        ],
+        "description": "This image appears to be a menu (40.4% confidence)",
+        "automated": true
+    },
+    "100.jpg": {
+        "timestamp": "2024-10-29T11:18:03.972767",
+        "features": {
+            "edge_density": 0.04036011581614187,
+            "num_contours": 461,
+            "avg_color": {
+                "blue": 168.1380709373869,
+                "green": 213.4142788635541,
+                "red": 231.05112830256968
+            }
+        },
+        "classifications": [
+            {
+                "label": "envelope",
+                "confidence": 0.6284103393554688
+            },
+            {
+                "label": "menu",
+                "confidence": 0.34311673045158386
+            },
+            {
+                "label": "quill",
+                "confidence": 0.009247302077710629
+            }
+        ],
+        "description": "This image appears to be a envelope (62.8% confidence) The image is relatively smooth The dominant color tone is red The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "103.jpg": {
+        "timestamp": "2024-10-29T11:18:04.220932",
+        "features": {
+            "edge_density": 0.06026262626262626,
+            "num_contours": 1,
+            "avg_color": {
+                "blue": 105.39516161616162,
+                "green": 126.16121212121213,
+                "red": 138.54423232323234
+            }
+        },
+        "classifications": [
+            {
+                "label": "envelope",
+                "confidence": 0.23349148035049438
+            },
+            {
+                "label": "menu",
+                "confidence": 0.23260514438152313
+            },
+            {
+                "label": "brass",
+                "confidence": 0.04882671311497688
+            }
+        ],
+        "description": "This image appears to be a envelope (23.3% confidence) The image is relatively smooth The dominant color tone is red The image has a simple composition",
+        "automated": true
+    },
+    "104.jpg": {
+        "timestamp": "2024-10-29T11:18:06.582931",
+        "features": {
+            "edge_density": 0.04365977011494253,
+            "num_contours": 377,
+            "avg_color": {
+                "blue": 145.07310344827587,
+                "green": 143.19653333333335,
+                "red": 144.67241072796935
+            }
+        },
+        "classifications": [
+            {
+                "label": "menu",
+                "confidence": 0.72818523645401
+            },
+            {
+                "label": "binder",
+                "confidence": 0.17043915390968323
+            },
+            {
+                "label": "book_jacket",
+                "confidence": 0.024874083697795868
+            }
+        ],
+        "description": "This image appears to be a menu (72.8% confidence) The image is relatively smooth The dominant color tone is blue The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "105.jpg": {
+        "timestamp": "2024-10-29T11:18:06.922134",
+        "features": {
+            "edge_density": 0.057618815104166665,
+            "num_contours": 11,
+            "avg_color": {
+                "blue": 141.14130289713543,
+                "green": 154.76888427734377,
+                "red": 159.81019124348958
+            }
+        },
+        "classifications": [
+            {
+                "label": "menu",
+                "confidence": 0.568291425704956
+            },
+            {
+                "label": "brass",
+                "confidence": 0.2185380607843399
+            },
+            {
+                "label": "crossword_puzzle",
+                "confidence": 0.05516035854816437
+            }
+        ],
+        "description": "This image appears to be a menu (56.8% confidence) The image is relatively smooth The dominant color tone is red The image has a simple composition",
+        "automated": true
+    },
+    "106.jpg": {
+        "timestamp": "2024-10-29T11:18:07.241110",
+        "features": {
+            "edge_density": 0.10369242205843691,
+            "num_contours": 282,
+            "avg_color": {
+                "blue": 211.88769525052805,
+                "green": 213.64072089713252,
+                "red": 185.72245641709048
+            }
+        },
+        "classifications": [
+            {
+                "label": "menu",
+                "confidence": 0.5469042062759399
+            },
+            {
+                "label": "envelope",
+                "confidence": 0.18224136531352997
+            },
+            {
+                "label": "fountain_pen",
+                "confidence": 0.03886131942272186
+            }
+        ],
+        "description": "This image appears to be a menu (54.7% confidence) The image contains significant detail/edges The dominant color tone is green The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "107.jpg": {
+        "timestamp": "2024-10-29T11:18:07.527365",
+        "features": {
+            "edge_density": 0.03658590823970038,
+            "num_contours": 307,
+            "avg_color": {
+                "blue": 193.13646184456928,
+                "green": 224.30259012172286,
+                "red": 241.52917602996254
+            }
+        },
+        "classifications": [
+            {
+                "label": "envelope",
+                "confidence": 0.32732823491096497
+            },
+            {
+                "label": "menu",
+                "confidence": 0.16478478908538818
+            },
+            {
+                "label": "quill",
+                "confidence": 0.16425557434558868
+            }
+        ],
+        "description": "This image appears to be a envelope (32.7% confidence) The image is relatively smooth The dominant color tone is red The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "108.jpg": {
+        "timestamp": "2024-10-29T11:18:08.344947",
+        "features": {
+            "edge_density": 0.022164930555555556,
+            "num_contours": 5423,
+            "avg_color": {
+                "blue": 144.33322083333334,
+                "green": 150.86147118055555,
+                "red": 162.84777106481482
+            }
+        },
+        "classifications": [
+            {
+                "label": "menu",
+                "confidence": 0.9578293561935425
+            },
+            {
+                "label": "binder",
+                "confidence": 0.036031488329172134
+            },
+            {
+                "label": "brass",
+                "confidence": 0.0018489662325009704
+            }
+        ],
+        "description": "This image appears to be a menu (95.8% confidence) The image is relatively smooth The dominant color tone is red The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "126.jpg": {
+        "timestamp": "2024-10-29T11:18:08.753042",
+        "features": {
+            "edge_density": 0.09523597619895234,
+            "num_contours": 74,
+            "avg_color": {
+                "blue": 232.25346462899864,
+                "green": 232.28984005492552,
+                "red": 232.18391140721153
+            }
+        },
+        "classifications": [
+            {
+                "label": "web_site",
+                "confidence": 0.547177791595459
+            },
+            {
+                "label": "menu",
+                "confidence": 0.2070188671350479
+            },
+            {
+                "label": "envelope",
+                "confidence": 0.06945735961198807
+            }
+        ],
+        "description": "This image appears to be a web site (54.7% confidence) The image is relatively smooth The dominant color tone is green The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "13.jpg": {
+        "timestamp": "2024-10-29T11:18:09.190270",
+        "features": {
+            "edge_density": 0.05923285590277778,
+            "num_contours": 408,
+            "avg_color": {
+                "blue": 234.29534505208332,
+                "green": 236.02019205729167,
+                "red": 236.28358289930554
+            }
+        },
+        "classifications": [
+            {
+                "label": "menu",
+                "confidence": 0.370680034160614
+            },
+            {
+                "label": "envelope",
+                "confidence": 0.2902306616306305
+            },
+            {
+                "label": "web_site",
+                "confidence": 0.13153263926506042
+            }
+        ],
+        "description": "This image appears to be a menu (37.1% confidence) The image is relatively smooth The dominant color tone is red The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "1a5b485681d0a59ce6c4faf95610dcca.jpg": {
+        "timestamp": "2024-10-29T11:18:09.391744",
+        "features": {
+            "edge_density": 0.04021637158426316,
+            "num_contours": 748,
+            "avg_color": {
+                "blue": 242.61256312501246,
+                "green": 242.8589133515639,
+                "red": 242.51537555639834
+            }
+        },
+        "classifications": [
+            {
+                "label": "menu",
+                "confidence": 0.8148292303085327
+            },
+            {
+                "label": "web_site",
+                "confidence": 0.17313839495182037
+            },
+            {
+                "label": "crossword_puzzle",
+                "confidence": 0.0011168733472004533
+            }
+        ],
+        "description": "This image appears to be a menu (81.5% confidence) The image is relatively smooth The dominant color tone is green The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "21.jpg": {
+        "timestamp": "2024-10-29T11:18:09.623919",
+        "features": {
+            "edge_density": 0.04461609195402299,
+            "num_contours": 271,
+            "avg_color": {
+                "blue": 130.6672888888889,
+                "green": 134.67924904214559,
+                "red": 136.36946206896553
+            }
+        },
+        "classifications": [
+            {
+                "label": "menu",
+                "confidence": 0.6969447135925293
+            },
+            {
+                "label": "binder",
+                "confidence": 0.13181960582733154
+            },
+            {
+                "label": "book_jacket",
+                "confidence": 0.053820256143808365
+            }
+        ],
+        "description": "This image appears to be a menu (69.7% confidence) The image is relatively smooth The dominant color tone is red The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "23.jpg": {
+        "timestamp": "2024-10-29T11:18:09.882959",
+        "features": {
+            "edge_density": 0.011387943054078767,
+            "num_contours": 179,
+            "avg_color": {
+                "blue": 165.53726267361182,
+                "green": 170.43337277567923,
+                "red": 179.33118331175038
+            }
+        },
+        "classifications": [
+            {
+                "label": "menu",
+                "confidence": 0.8047645092010498
+            },
+            {
+                "label": "binder",
+                "confidence": 0.03768074885010719
+            },
+            {
+                "label": "envelope",
+                "confidence": 0.020940136164426804
+            }
+        ],
+        "description": "This image appears to be a menu (80.5% confidence) The image is relatively smooth The dominant color tone is red The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "28.jpg": {
+        "timestamp": "2024-10-29T11:18:10.070748",
+        "features": {
+            "edge_density": 0.03316073947482639,
+            "num_contours": 308,
+            "avg_color": {
+                "blue": 168.59735446506076,
+                "green": 176.64449225531683,
+                "red": 184.2569342719184
+            }
+        },
+        "classifications": [
+            {
+                "label": "envelope",
+                "confidence": 0.5328839421272278
+            },
+            {
+                "label": "menu",
+                "confidence": 0.2549782395362854
+            },
+            {
+                "label": "paper_towel",
+                "confidence": 0.06058430299162865
+            }
+        ],
+        "description": "This image appears to be a envelope (53.3% confidence) The image is relatively smooth The dominant color tone is red The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "29.jpg": {
+        "timestamp": "2024-10-29T11:18:10.410252",
+        "features": {
+            "edge_density": 0.07200286367951692,
+            "num_contours": 1,
+            "avg_color": {
+                "blue": 231.15372978693603,
+                "green": 231.15372978693603,
+                "red": 231.15372978693603
+            }
+        },
+        "classifications": [
+            {
+                "label": "menu",
+                "confidence": 0.7348309755325317
+            },
+            {
+                "label": "web_site",
+                "confidence": 0.10880596935749054
+            },
+            {
+                "label": "crossword_puzzle",
+                "confidence": 0.012997548095881939
+            }
+        ],
+        "description": "This image appears to be a menu (73.5% confidence) The image is relatively smooth The dominant color tone is blue The image has a simple composition",
+        "automated": true
+    },
+    "30.jpg": {
+        "timestamp": "2024-10-29T11:18:10.692384",
+        "features": {
+            "edge_density": 0.01988356428021555,
+            "num_contours": 379,
+            "avg_color": {
+                "blue": 172.91924364896073,
+                "green": 173.05690098152425,
+                "red": 173.542709295612
+            }
+        },
+        "classifications": [
+            {
+                "label": "binder",
+                "confidence": 0.6445623636245728
+            },
+            {
+                "label": "menu",
+                "confidence": 0.232254758477211
+            },
+            {
+                "label": "envelope",
+                "confidence": 0.01647673361003399
+            }
+        ],
+        "description": "This image appears to be a binder (64.5% confidence) The image is relatively smooth The dominant color tone is red The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "31.jpg": {
+        "timestamp": "2024-10-29T11:18:10.925468",
+        "features": {
+            "edge_density": 0.07328735632183908,
+            "num_contours": 1,
+            "avg_color": {
+                "blue": 240.28485632183907,
+                "green": 240.25822413793102,
+                "red": 240.2976091954023
+            }
+        },
+        "classifications": [
+            {
+                "label": "web_site",
+                "confidence": 0.8388349413871765
+            },
+            {
+                "label": "menu",
+                "confidence": 0.0767681673169136
+            },
+            {
+                "label": "envelope",
+                "confidence": 0.008615236729383469
+            }
+        ],
+        "description": "This image appears to be a web site (83.9% confidence) The image is relatively smooth The dominant color tone is red The image has a simple composition",
+        "automated": true
+    },
+    "60.jpg": {
+        "timestamp": "2024-10-29T11:18:11.230938",
+        "features": {
+            "edge_density": 0.0391772223907767,
+            "num_contours": 558,
+            "avg_color": {
+                "blue": 137.72665826001213,
+                "green": 147.63276604217234,
+                "red": 150.58803189472087
+            }
+        },
+        "classifications": [
+            {
+                "label": "menu",
+                "confidence": 0.6327500343322754
+            },
+            {
+                "label": "web_site",
+                "confidence": 0.14889052510261536
+            },
+            {
+                "label": "binder",
+                "confidence": 0.046948183327913284
+            }
+        ],
+        "description": "This image appears to be a menu (63.3% confidence) The image is relatively smooth The dominant color tone is red The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "61.jpg": {
+        "timestamp": "2024-10-29T11:18:11.520367",
+        "features": {
+            "edge_density": 0.05176441187495866,
+            "num_contours": 362,
+            "avg_color": {
+                "blue": 245.33307068672775,
+                "green": 244.8377049782802,
+                "red": 243.6285201872827
+            }
+        },
+        "classifications": [
+            {
+                "label": "web_site",
+                "confidence": 0.7771539688110352
+            },
+            {
+                "label": "menu",
+                "confidence": 0.1672108769416809
+            },
+            {
+                "label": "envelope",
+                "confidence": 0.009171326644718647
+            }
+        ],
+        "description": "This image appears to be a web site (77.7% confidence) The image is relatively smooth The dominant color tone is blue The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "63.jpg": {
+        "timestamp": "2024-10-29T11:18:11.939407",
+        "features": {
+            "edge_density": 0.008463664403106143,
+            "num_contours": 625,
+            "avg_color": {
+                "blue": 231.14204943068995,
+                "green": 209.90940563902302,
+                "red": 208.10278296109627
+            }
+        },
+        "classifications": [
+            {
+                "label": "web_site",
+                "confidence": 0.9405962824821472
+            },
+            {
+                "label": "envelope",
+                "confidence": 0.04175329580903053
+            },
+            {
+                "label": "menu",
+                "confidence": 0.010839524678885937
+            }
+        ],
+        "description": "This image appears to be a web site (94.1% confidence) The image is relatively smooth The dominant color tone is blue The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "65.jpg": {
+        "timestamp": "2024-10-29T11:18:12.165832",
+        "features": {
+            "edge_density": 0.03783440321887094,
+            "num_contours": 365,
+            "avg_color": {
+                "blue": 243.82231901529576,
+                "green": 243.52304349161494,
+                "red": 243.8704600251858
+            }
+        },
+        "classifications": [
+            {
+                "label": "menu",
+                "confidence": 0.7442363500595093
+            },
+            {
+                "label": "web_site",
+                "confidence": 0.11336928606033325
+            },
+            {
+                "label": "envelope",
+                "confidence": 0.06146899238228798
+            }
+        ],
+        "description": "This image appears to be a menu (74.4% confidence) The image is relatively smooth The dominant color tone is red The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "66.jpg": {
+        "timestamp": "2024-10-29T11:18:12.865350",
+        "features": {
+            "edge_density": 0.03560370370370371,
+            "num_contours": 8167,
+            "avg_color": {
+                "blue": 164.62062974537037,
+                "green": 175.85740416666667,
+                "red": 186.83620567129628
+            }
+        },
+        "classifications": [
+            {
+                "label": "menu",
+                "confidence": 0.8662797808647156
+            },
+            {
+                "label": "crossword_puzzle",
+                "confidence": 0.057264335453510284
+            },
+            {
+                "label": "binder",
+                "confidence": 0.026454392820596695
+            }
+        ],
+        "description": "This image appears to be a menu (86.6% confidence) The image is relatively smooth The dominant color tone is red The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "67.jpg": {
+        "timestamp": "2024-10-29T11:18:13.168164",
+        "features": {
+            "edge_density": 0.028021875,
+            "num_contours": 616,
+            "avg_color": {
+                "blue": 169.92296875,
+                "green": 170.2659265625,
+                "red": 171.63107916666667
+            }
+        },
+        "classifications": [
+            {
+                "label": "binder",
+                "confidence": 0.8767451047897339
+            },
+            {
+                "label": "menu",
+                "confidence": 0.09535551071166992
+            },
+            {
+                "label": "ballpoint",
+                "confidence": 0.0026261622551828623
+            }
+        ],
+        "description": "This image appears to be a binder (87.7% confidence) The image is relatively smooth The dominant color tone is red The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "7-partial-payment-768x738.jpg": {
+        "timestamp": "2024-10-29T11:18:13.346207",
+        "features": {
+            "edge_density": 0.021221488256549233,
+            "num_contours": 308,
+            "avg_color": {
+                "blue": 249.01823093100722,
+                "green": 247.83141373080397,
+                "red": 239.26390476795393
+            }
+        },
+        "classifications": [
+            {
+                "label": "web_site",
+                "confidence": 0.9982666969299316
+            },
+            {
+                "label": "menu",
+                "confidence": 0.0007510241121053696
+            },
+            {
+                "label": "envelope",
+                "confidence": 0.00043346264283172786
+            }
+        ],
+        "description": "This image appears to be a web site (99.8% confidence) The image is relatively smooth The dominant color tone is blue The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "80.jpg": {
+        "timestamp": "2024-10-29T11:18:13.556158",
+        "features": {
+            "edge_density": 0.04401781737193764,
+            "num_contours": 749,
+            "avg_color": {
+                "blue": 169.71311952487008,
+                "green": 176.74871121009653,
+                "red": 181.92619005196735
+            }
+        },
+        "classifications": [
+            {
+                "label": "menu",
+                "confidence": 0.5948472619056702
+            },
+            {
+                "label": "binder",
+                "confidence": 0.386749804019928
+            },
+            {
+                "label": "book_jacket",
+                "confidence": 0.004667384549975395
+            }
+        ],
+        "description": "This image appears to be a menu (59.5% confidence) The image is relatively smooth The dominant color tone is red The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "81.jpg": {
+        "timestamp": "2024-10-29T11:18:13.773576",
+        "features": {
+            "edge_density": 0.0491943359375,
+            "num_contours": 663,
+            "avg_color": {
+                "blue": 122.54309558868408,
+                "green": 135.91527271270752,
+                "red": 147.22438430786133
+            }
+        },
+        "classifications": [
+            {
+                "label": "menu",
+                "confidence": 0.8028433322906494
+            },
+            {
+                "label": "shower_curtain",
+                "confidence": 0.13105757534503937
+            },
+            {
+                "label": "packet",
+                "confidence": 0.013945184648036957
+            }
+        ],
+        "description": "This image appears to be a menu (80.3% confidence) The image is relatively smooth The dominant color tone is red The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "82.jpg": {
+        "timestamp": "2024-10-29T11:18:13.972045",
+        "features": {
+            "edge_density": 0.03957080841064453,
+            "num_contours": 354,
+            "avg_color": {
+                "blue": 141.99462985992432,
+                "green": 153.3512487411499,
+                "red": 180.18016719818115
+            }
+        },
+        "classifications": [
+            {
+                "label": "menu",
+                "confidence": 0.5007191896438599
+            },
+            {
+                "label": "binder",
+                "confidence": 0.4177999496459961
+            },
+            {
+                "label": "slide_rule",
+                "confidence": 0.007625817786902189
+            }
+        ],
+        "description": "This image appears to be a menu (50.1% confidence) The image is relatively smooth The dominant color tone is red The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "83.jpg": {
+        "timestamp": "2024-10-29T11:18:14.159542",
+        "features": {
+            "edge_density": 0.06269585696433722,
+            "num_contours": 1,
+            "avg_color": {
+                "blue": 239.84982937614149,
+                "green": 239.84343698932997,
+                "red": 239.86878064019993
+            }
+        },
+        "classifications": [
+            {
+                "label": "menu",
+                "confidence": 0.6076894998550415
+            },
+            {
+                "label": "web_site",
+                "confidence": 0.1999993473291397
+            },
+            {
+                "label": "crossword_puzzle",
+                "confidence": 0.023966537788510323
+            }
+        ],
+        "description": "This image appears to be a menu (60.8% confidence) The image is relatively smooth The dominant color tone is red The image has a simple composition",
+        "automated": true
+    },
+    "84.jpg": {
+        "timestamp": "2024-10-29T11:18:14.373969",
+        "features": {
+            "edge_density": 0.0494677734375,
+            "num_contours": 976,
+            "avg_color": {
+                "blue": 166.48326009114584,
+                "green": 173.99828043619792,
+                "red": 181.20883138020835
+            }
+        },
+        "classifications": [
+            {
+                "label": "menu",
+                "confidence": 0.567244291305542
+            },
+            {
+                "label": "binder",
+                "confidence": 0.3763456642627716
+            },
+            {
+                "label": "slide_rule",
+                "confidence": 0.012389600276947021
+            }
+        ],
+        "description": "This image appears to be a menu (56.7% confidence) The image is relatively smooth The dominant color tone is red The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "85.jpg": {
+        "timestamp": "2024-10-29T11:18:15.294616",
+        "features": {
+            "edge_density": 0.012624506903353058,
+            "num_contours": 2616,
+            "avg_color": {
+                "blue": 147.93678685897436,
+                "green": 151.3240969397189,
+                "red": 158.08456098989151
+            }
+        },
+        "classifications": [
+            {
+                "label": "menu",
+                "confidence": 0.9648292064666748
+            },
+            {
+                "label": "binder",
+                "confidence": 0.02301911450922489
+            },
+            {
+                "label": "packet",
+                "confidence": 0.0013002618215978146
+            }
+        ],
+        "description": "This image appears to be a menu (96.5% confidence) The image is relatively smooth The dominant color tone is red The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "86.jpg": {
+        "timestamp": "2024-10-29T11:18:15.510335",
+        "features": {
+            "edge_density": 0.04322189726067064,
+            "num_contours": 79,
+            "avg_color": {
+                "blue": 197.84671265998725,
+                "green": 197.84671265998725,
+                "red": 197.84671265998725
+            }
+        },
+        "classifications": [
+            {
+                "label": "paper_towel",
+                "confidence": 0.5444331765174866
+            },
+            {
+                "label": "fountain_pen",
+                "confidence": 0.1827104538679123
+            },
+            {
+                "label": "envelope",
+                "confidence": 0.15439218282699585
+            }
+        ],
+        "description": "This image appears to be a paper towel (54.4% confidence) The image is relatively smooth The dominant color tone is blue The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "87.jpg": {
+        "timestamp": "2024-10-29T11:18:15.734240",
+        "features": {
+            "edge_density": 0.04846896551724138,
+            "num_contours": 488,
+            "avg_color": {
+                "blue": 214.6705777777778,
+                "green": 206.10474482758622,
+                "red": 209.95871570881226
+            }
+        },
+        "classifications": [
+            {
+                "label": "menu",
+                "confidence": 0.8549026250839233
+            },
+            {
+                "label": "binder",
+                "confidence": 0.093272365629673
+            },
+            {
+                "label": "envelope",
+                "confidence": 0.02860228344798088
+            }
+        ],
+        "description": "This image appears to be a menu (85.5% confidence) The image is relatively smooth The dominant color tone is blue The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "89319443_3099124336778208_1718133668842569728_n.jpg": {
+        "timestamp": "2024-10-29T11:18:16.088376",
+        "features": {
+            "edge_density": 0.03099647266313933,
+            "num_contours": 24,
+            "avg_color": {
+                "blue": 188.27763548180215,
+                "green": 187.18392556517554,
+                "red": 186.61438391855057
+            }
+        },
+        "classifications": [
+            {
+                "label": "web_site",
+                "confidence": 0.9991171956062317
+            },
+            {
+                "label": "envelope",
+                "confidence": 0.00030366930877789855
+            },
+            {
+                "label": "menu",
+                "confidence": 0.000260330067249015
+            }
+        ],
+        "description": "This image appears to be a web site (99.9% confidence) The image is relatively smooth The dominant color tone is blue The image has a simple composition",
+        "automated": true
+    },
+    "9.jpg": {
+        "timestamp": "2024-10-29T11:18:16.281847",
+        "features": {
+            "edge_density": 0.042381062712388014,
+            "num_contours": 1,
+            "avg_color": {
+                "blue": 245.37973689630314,
+                "green": 245.37973689630314,
+                "red": 245.37973689630314
+            }
+        },
+        "classifications": [
+            {
+                "label": "web_site",
+                "confidence": 0.8192728161811829
+            },
+            {
+                "label": "menu",
+                "confidence": 0.12338866293430328
+            },
+            {
+                "label": "envelope",
+                "confidence": 0.008235970512032509
+            }
+        ],
+        "description": "This image appears to be a web site (81.9% confidence) The image is relatively smooth The dominant color tone is blue The image has a simple composition",
+        "automated": true
+    },
+    "94.jpg": {
+        "timestamp": "2024-10-29T11:18:16.469344",
+        "features": {
+            "edge_density": 0.05176441187495866,
+            "num_contours": 362,
+            "avg_color": {
+                "blue": 245.33307068672775,
+                "green": 244.8377049782802,
+                "red": 243.6285201872827
+            }
+        },
+        "classifications": [
+            {
+                "label": "web_site",
+                "confidence": 0.7771539688110352
+            },
+            {
+                "label": "menu",
+                "confidence": 0.1672108769416809
+            },
+            {
+                "label": "envelope",
+                "confidence": 0.009171326644718647
+            }
+        ],
+        "description": "This image appears to be a web site (77.7% confidence) The image is relatively smooth The dominant color tone is blue The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "95.jpg": {
+        "timestamp": "2024-10-29T11:18:16.715871",
+        "features": {
+            "edge_density": 0.04536307679063361,
+            "num_contours": 539,
+            "avg_color": {
+                "blue": 150.9968927556818,
+                "green": 160.42203372503445,
+                "red": 164.63570721418733
+            }
+        },
+        "classifications": [
+            {
+                "label": "menu",
+                "confidence": 0.6639081835746765
+            },
+            {
+                "label": "binder",
+                "confidence": 0.1944962739944458
+            },
+            {
+                "label": "envelope",
+                "confidence": 0.07096356898546219
+            }
+        ],
+        "description": "This image appears to be a menu (66.4% confidence) The image is relatively smooth The dominant color tone is red The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "96.jpg": {
+        "timestamp": "2024-10-29T11:18:16.899385",
+        "features": {
+            "edge_density": 0.02628659060918634,
+            "num_contours": 267,
+            "avg_color": {
+                "blue": 244.36978458746282,
+                "green": 244.36405650021993,
+                "red": 244.3583472358165
+            }
+        },
+        "classifications": [
+            {
+                "label": "web_site",
+                "confidence": 0.674921989440918
+            },
+            {
+                "label": "menu",
+                "confidence": 0.2167501598596573
+            },
+            {
+                "label": "envelope",
+                "confidence": 0.0401921384036541
+            }
+        ],
+        "description": "This image appears to be a web site (67.5% confidence) The image is relatively smooth The dominant color tone is blue The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "98.jpg": {
+        "timestamp": "2024-10-29T11:18:17.097661",
+        "features": {
+            "edge_density": 0.028427734375,
+            "num_contours": 398,
+            "avg_color": {
+                "blue": 120.48546115451389,
+                "green": 122.83848849826389,
+                "red": 126.81701171875
+            }
+        },
+        "classifications": [
+            {
+                "label": "menu",
+                "confidence": 0.8111081123352051
+            },
+            {
+                "label": "envelope",
+                "confidence": 0.08920091390609741
+            },
+            {
+                "label": "packet",
+                "confidence": 0.016162948682904243
+            }
+        ],
+        "description": "This image appears to be a menu (81.1% confidence) The image is relatively smooth The dominant color tone is red The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "99.jpg": {
+        "timestamp": "2024-10-29T11:18:17.269202",
+        "features": {
+            "edge_density": 0.0524581589958159,
+            "num_contours": 634,
+            "avg_color": {
+                "blue": 144.53619246861925,
+                "green": 148.71204159488062,
+                "red": 153.14830790056607
+            }
+        },
+        "classifications": [
+            {
+                "label": "menu",
+                "confidence": 0.9264377951622009
+            },
+            {
+                "label": "binder",
+                "confidence": 0.0656379982829094
+            },
+            {
+                "label": "envelope",
+                "confidence": 0.0015502272872254252
+            }
+        ],
+        "description": "This image appears to be a menu (92.6% confidence) The image is relatively smooth The dominant color tone is red The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "a0f73586855568492d08c109fffba26c.jpg": {
+        "timestamp": "2024-10-29T11:18:17.453781",
+        "features": {
+            "edge_density": 0.04647171174891596,
+            "num_contours": 746,
+            "avg_color": {
+                "blue": 242.17029877027554,
+                "green": 242.52001026682268,
+                "red": 242.09732833184205
+            }
+        },
+        "classifications": [
+            {
+                "label": "menu",
+                "confidence": 0.839881420135498
+            },
+            {
+                "label": "web_site",
+                "confidence": 0.15500178933143616
+            },
+            {
+                "label": "crossword_puzzle",
+                "confidence": 0.0012852628715336323
+            }
+        ],
+        "description": "This image appears to be a menu (84.0% confidence) The image is relatively smooth The dominant color tone is green The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "d19a2a2b10ff7dc16fd67e0d4b0e6b1a.jpg": {
+        "timestamp": "2024-10-29T11:18:18.002820",
+        "features": {
+            "edge_density": 0.023279330499794536,
+            "num_contours": 1658,
+            "avg_color": {
+                "blue": 242.53149950627733,
+                "green": 242.4420115058848,
+                "red": 242.68741804510356
+            }
+        },
+        "classifications": [
+            {
+                "label": "web_site",
+                "confidence": 0.9961633682250977
+            },
+            {
+                "label": "menu",
+                "confidence": 0.0030561345629394054
+            },
+            {
+                "label": "envelope",
+                "confidence": 0.0005392875173129141
+            }
+        ],
+        "description": "This image appears to be a web site (99.6% confidence) The image is relatively smooth The dominant color tone is red The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "deposit-receipt-b39a92e2e1c31126f8b163aaaa9fad89_og.png": {
+        "timestamp": "2024-10-29T11:18:18.232213",
+        "features": {
+            "edge_density": 0.020973256946174225,
+            "num_contours": 343,
+            "avg_color": {
+                "blue": 244.7075994655918,
+                "green": 242.117917393175,
+                "red": 239.30416091121126
+            }
+        },
+        "classifications": [
+            {
+                "label": "web_site",
+                "confidence": 0.9993606209754944
+            },
+            {
+                "label": "monitor",
+                "confidence": 0.0001976523344637826
+            },
+            {
+                "label": "envelope",
+                "confidence": 0.0001452820433769375
+            }
+        ],
+        "description": "This image appears to be a web site (99.9% confidence) The image is relatively smooth The dominant color tone is blue The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "Dl3d-hcXcAEgA-X.jpg": {
+        "timestamp": "2024-10-29T11:18:18.436950",
+        "features": {
+            "edge_density": 0.03796581675539367,
+            "num_contours": 342,
+            "avg_color": {
+                "blue": 180.02195326155118,
+                "green": 153.9267018239069,
+                "red": 139.08641709695925
+            }
+        },
+        "classifications": [
+            {
+                "label": "envelope",
+                "confidence": 0.35033634305000305
+            },
+            {
+                "label": "menu",
+                "confidence": 0.24069726467132568
+            },
+            {
+                "label": "web_site",
+                "confidence": 0.1728925257921219
+            }
+        ],
+        "description": "This image appears to be a envelope (35.0% confidence) The image is relatively smooth The dominant color tone is blue The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "generic-medical-receipt-for-bill-settlement1.png": {
+        "timestamp": "2024-10-29T11:18:18.625445",
+        "features": {
+            "edge_density": 0.03251098928236282,
+            "num_contours": 905,
+            "avg_color": {
+                "blue": 250.51992102084708,
+                "green": 250.51992102084708,
+                "red": 250.51992102084708
+            }
+        },
+        "classifications": [
+            {
+                "label": "menu",
+                "confidence": 0.501567006111145
+            },
+            {
+                "label": "web_site",
+                "confidence": 0.4848792552947998
+            },
+            {
+                "label": "envelope",
+                "confidence": 0.00421963119879365
+            }
+        ],
+        "description": "This image appears to be a menu (50.2% confidence) The image is relatively smooth The dominant color tone is blue The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "hospital-bill-1-788x1023.jpg": {
+        "timestamp": "2024-10-29T11:18:18.804162",
+        "features": {
+            "edge_density": 0.05406984533396847,
+            "num_contours": 1,
+            "avg_color": {
+                "blue": 245.71190164292344,
+                "green": 245.71190164292344,
+                "red": 245.71190164292344
+            }
+        },
+        "classifications": [
+            {
+                "label": "web_site",
+                "confidence": 0.7694622278213501
+            },
+            {
+                "label": "menu",
+                "confidence": 0.15582753717899323
+            },
+            {
+                "label": "binder",
+                "confidence": 0.011063428595662117
+            }
+        ],
+        "description": "This image appears to be a web site (76.9% confidence) The image is relatively smooth The dominant color tone is blue The image has a simple composition",
+        "automated": true
+    },
+    "How-to-print-pay-stubs-in-QuickBooks-Online-1-763x864-1.jpg": {
+        "timestamp": "2024-10-29T11:18:18.984038",
+        "features": {
+            "edge_density": 0.038329450026697735,
+            "num_contours": 645,
+            "avg_color": {
+                "blue": 246.46105164797825,
+                "green": 245.55118380175722,
+                "red": 245.64686787049175
+            }
+        },
+        "classifications": [
+            {
+                "label": "web_site",
+                "confidence": 0.5155478119850159
+            },
+            {
+                "label": "menu",
+                "confidence": 0.4804128110408783
+            },
+            {
+                "label": "envelope",
+                "confidence": 0.0005967648467049003
+            }
+        ],
+        "description": "This image appears to be a web site (51.6% confidence) The image is relatively smooth The dominant color tone is blue The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "IMG-20241028-WA0007.jpg": {
+        "timestamp": "2024-10-29T11:18:19.165268",
+        "features": {
+            "edge_density": 0.04092130140560703,
+            "num_contours": 523,
+            "avg_color": {
+                "blue": 202.78623095415307,
+                "green": 187.9007648281703,
+                "red": 169.4622398172625
+            }
+        },
+        "classifications": [
+            {
+                "label": "menu",
+                "confidence": 0.9385747909545898
+            },
+            {
+                "label": "web_site",
+                "confidence": 0.026300696656107903
+            },
+            {
+                "label": "binder",
+                "confidence": 0.010794855654239655
+            }
+        ],
+        "description": "This image appears to be a menu (93.9% confidence) The image is relatively smooth The dominant color tone is blue The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "IMG-20241028-WA0008.jpg": {
+        "timestamp": "2024-10-29T11:18:19.348151",
+        "features": {
+            "edge_density": 0.035091165187355784,
+            "num_contours": 851,
+            "avg_color": {
+                "blue": 123.50737532028143,
+                "green": 140.4663580640138,
+                "red": 155.04928794892484
+            }
+        },
+        "classifications": [
+            {
+                "label": "menu",
+                "confidence": 0.9755832552909851
+            },
+            {
+                "label": "web_site",
+                "confidence": 0.006808745674788952
+            },
+            {
+                "label": "envelope",
+                "confidence": 0.004942063707858324
+            }
+        ],
+        "description": "This image appears to be a menu (97.6% confidence) The image is relatively smooth The dominant color tone is red The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "IMG-20241028-WA0009.jpg": {
+        "timestamp": "2024-10-29T11:18:19.534737",
+        "features": {
+            "edge_density": 0.053917685227101254,
+            "num_contours": 803,
+            "avg_color": {
+                "blue": 157.50270908782255,
+                "green": 163.39866031009507,
+                "red": 166.04709663120568
+            }
+        },
+        "classifications": [
+            {
+                "label": "menu",
+                "confidence": 0.9667580723762512
+            },
+            {
+                "label": "binder",
+                "confidence": 0.0026027087587863207
+            },
+            {
+                "label": "web_site",
+                "confidence": 0.002356280805543065
+            }
+        ],
+        "description": "This image appears to be a menu (96.7% confidence) The image is relatively smooth The dominant color tone is red The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "IMG-20241028-WA0010.jpg": {
+        "timestamp": "2024-10-29T11:18:19.715740",
+        "features": {
+            "edge_density": 0.06213285188352618,
+            "num_contours": 854,
+            "avg_color": {
+                "blue": 245.2051010289284,
+                "green": 244.72132924978132,
+                "red": 243.4524093200496
+            }
+        },
+        "classifications": [
+            {
+                "label": "web_site",
+                "confidence": 0.8880131244659424
+            },
+            {
+                "label": "menu",
+                "confidence": 0.1035095602273941
+            },
+            {
+                "label": "binder",
+                "confidence": 0.0017431344604119658
+            }
+        ],
+        "description": "This image appears to be a web site (88.8% confidence) The image is relatively smooth The dominant color tone is blue The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "IMG-20241028-WA0011.jpg": {
+        "timestamp": "2024-10-29T11:18:19.913147",
+        "features": {
+            "edge_density": 0.10036212427884947,
+            "num_contours": 1594,
+            "avg_color": {
+                "blue": 205.83478137148262,
+                "green": 198.00936061428027,
+                "red": 208.66426168413034
+            }
+        },
+        "classifications": [
+            {
+                "label": "menu",
+                "confidence": 0.3575945496559143
+            },
+            {
+                "label": "shower_curtain",
+                "confidence": 0.09588741511106491
+            },
+            {
+                "label": "paper_towel",
+                "confidence": 0.07825598120689392
+            }
+        ],
+        "description": "This image appears to be a menu (35.8% confidence) The image contains significant detail/edges The dominant color tone is red The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "IMG-20241028-WA0012.jpg": {
+        "timestamp": "2024-10-29T11:18:20.254271",
+        "features": {
+            "edge_density": 0.05661665848609659,
+            "num_contours": 876,
+            "avg_color": {
+                "blue": 202.83582129366823,
+                "green": 194.42144874339328,
+                "red": 191.5319451261586
+            }
+        },
+        "classifications": [
+            {
+                "label": "menu",
+                "confidence": 0.5321122407913208
+            },
+            {
+                "label": "web_site",
+                "confidence": 0.0359504409134388
+            },
+            {
+                "label": "binder",
+                "confidence": 0.02882116660475731
+            }
+        ],
+        "description": "This image appears to be a menu (53.2% confidence) The image is relatively smooth The dominant color tone is blue The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "IMG-20241028-WA0013.jpg": {
+        "timestamp": "2024-10-29T11:18:20.439626",
+        "features": {
+            "edge_density": 0.05057035815136858,
+            "num_contours": 579,
+            "avg_color": {
+                "blue": 244.76486938611941,
+                "green": 242.07580544449723,
+                "red": 240.8238203744606
+            }
+        },
+        "classifications": [
+            {
+                "label": "web_site",
+                "confidence": 0.9980104565620422
+            },
+            {
+                "label": "menu",
+                "confidence": 0.001467795460484922
+            },
+            {
+                "label": "notebook",
+                "confidence": 0.0001368684315821156
+            }
+        ],
+        "description": "This image appears to be a web site (99.8% confidence) The image is relatively smooth The dominant color tone is blue The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "IMG-20241028-WA0014.jpg": {
+        "timestamp": "2024-10-29T11:18:20.621410",
+        "features": {
+            "edge_density": 0.07879047994296222,
+            "num_contours": 681,
+            "avg_color": {
+                "blue": 201.38640286689935,
+                "green": 196.69933440279186,
+                "red": 203.90291615069987
+            }
+        },
+        "classifications": [
+            {
+                "label": "stethoscope",
+                "confidence": 0.9989199638366699
+            },
+            {
+                "label": "quill",
+                "confidence": 0.0006456617265939713
+            },
+            {
+                "label": "safety_pin",
+                "confidence": 0.00011134662781842053
+            }
+        ],
+        "description": "This image appears to be a stethoscope (99.9% confidence) The image is relatively smooth The dominant color tone is red The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "IMG-20241028-WA0015.jpg": {
+        "timestamp": "2024-10-29T11:18:20.801928",
+        "features": {
+            "edge_density": 0.10950078518885858,
+            "num_contours": 633,
+            "avg_color": {
+                "blue": 162.86436895611206,
+                "green": 160.1543474667328,
+                "red": 159.55236383172164
+            }
+        },
+        "classifications": [
+            {
+                "label": "binder",
+                "confidence": 0.8360962271690369
+            },
+            {
+                "label": "menu",
+                "confidence": 0.11034980416297913
+            },
+            {
+                "label": "slide_rule",
+                "confidence": 0.012320823036134243
+            }
+        ],
+        "description": "This image appears to be a binder (83.6% confidence) The image contains significant detail/edges The dominant color tone is blue The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "IMG-20241028-WA0016.jpg": {
+        "timestamp": "2024-10-29T11:18:21.003886",
+        "features": {
+            "edge_density": 0.10552299656007134,
+            "num_contours": 815,
+            "avg_color": {
+                "blue": 201.58687235458163,
+                "green": 172.72148610580257,
+                "red": 161.53478857887063
+            }
+        },
+        "classifications": [
+            {
+                "label": "monitor",
+                "confidence": 0.5536410212516785
+            },
+            {
+                "label": "screen",
+                "confidence": 0.15976610779762268
+            },
+            {
+                "label": "binder",
+                "confidence": 0.08131086826324463
+            }
+        ],
+        "description": "This image appears to be a monitor (55.4% confidence) The image contains significant detail/edges The dominant color tone is blue The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "IMG-20241028-WA0017.jpg": {
+        "timestamp": "2024-10-29T11:18:21.199390",
+        "features": {
+            "edge_density": 0.025185045554508324,
+            "num_contours": 607,
+            "avg_color": {
+                "blue": 237.9637097078228,
+                "green": 232.38171033616084,
+                "red": 206.44515614200438
+            }
+        },
+        "classifications": [
+            {
+                "label": "web_site",
+                "confidence": 0.9973330497741699
+            },
+            {
+                "label": "menu",
+                "confidence": 0.0014798748306930065
+            },
+            {
+                "label": "envelope",
+                "confidence": 0.000653611496090889
+            }
+        ],
+        "description": "This image appears to be a web site (99.7% confidence) The image is relatively smooth The dominant color tone is blue The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "IMG-20241028-WA0018.jpg": {
+        "timestamp": "2024-10-29T11:18:21.371425",
+        "features": {
+            "edge_density": 0.043893229166666665,
+            "num_contours": 1123,
+            "avg_color": {
+                "blue": 163.0316015625,
+                "green": 166.04691984953703,
+                "red": 185.88287326388888
+            }
+        },
+        "classifications": [
+            {
+                "label": "menu",
+                "confidence": 0.9267901182174683
+            },
+            {
+                "label": "binder",
+                "confidence": 0.03328309953212738
+            },
+            {
+                "label": "crossword_puzzle",
+                "confidence": 0.003649856662377715
+            }
+        ],
+        "description": "This image appears to be a menu (92.7% confidence) The image is relatively smooth The dominant color tone is red The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "IMG-20241028-WA0019.jpg": {
+        "timestamp": "2024-10-29T11:18:21.572026",
+        "features": {
+            "edge_density": 0.016722588752748978,
+            "num_contours": 360,
+            "avg_color": {
+                "blue": 242.97135281181275,
+                "green": 234.53382720703738,
+                "red": 213.12417593465284
+            }
+        },
+        "classifications": [
+            {
+                "label": "web_site",
+                "confidence": 0.9801863431930542
+            },
+            {
+                "label": "menu",
+                "confidence": 0.014071968384087086
+            },
+            {
+                "label": "envelope",
+                "confidence": 0.00456839008256793
+            }
+        ],
+        "description": "This image appears to be a web site (98.0% confidence) The image is relatively smooth The dominant color tone is blue The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "IMG-20241028-WA0020.jpg": {
+        "timestamp": "2024-10-29T11:18:21.826346",
+        "features": {
+            "edge_density": 0.021214117768648424,
+            "num_contours": 643,
+            "avg_color": {
+                "blue": 232.99727239059848,
+                "green": 228.3069675907983,
+                "red": 229.40871982361404
+            }
+        },
+        "classifications": [
+            {
+                "label": "menu",
+                "confidence": 0.32451295852661133
+            },
+            {
+                "label": "envelope",
+                "confidence": 0.25123095512390137
+            },
+            {
+                "label": "web_site",
+                "confidence": 0.16003559529781342
+            }
+        ],
+        "description": "This image appears to be a menu (32.5% confidence) The image is relatively smooth The dominant color tone is blue The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "IMG-20241028-WA0021.jpg": {
+        "timestamp": "2024-10-29T11:18:22.128540",
+        "features": {
+            "edge_density": 0.0254785693328589,
+            "num_contours": 1087,
+            "avg_color": {
+                "blue": 245.46532459688748,
+                "green": 245.2679001161114,
+                "red": 245.40060342029204
+            }
+        },
+        "classifications": [
+            {
+                "label": "menu",
+                "confidence": 0.7917295098304749
+            },
+            {
+                "label": "web_site",
+                "confidence": 0.14934822916984558
+            },
+            {
+                "label": "binder",
+                "confidence": 0.024777639657258987
+            }
+        ],
+        "description": "This image appears to be a menu (79.2% confidence) The image is relatively smooth The dominant color tone is blue The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "IMG-20241028-WA0022.jpg": {
+        "timestamp": "2024-10-29T11:18:22.359326",
+        "features": {
+            "edge_density": 0.043522828014184396,
+            "num_contours": 881,
+            "avg_color": {
+                "blue": 244.27362773345152,
+                "green": 243.48741504137115,
+                "red": 243.60631556589834
+            }
+        },
+        "classifications": [
+            {
+                "label": "web_site",
+                "confidence": 0.8193156719207764
+            },
+            {
+                "label": "menu",
+                "confidence": 0.11674661934375763
+            },
+            {
+                "label": "envelope",
+                "confidence": 0.058701928704977036
+            }
+        ],
+        "description": "This image appears to be a web site (81.9% confidence) The image is relatively smooth The dominant color tone is blue The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "IMG-20241028-WA0023.jpg": {
+        "timestamp": "2024-10-29T11:18:22.602383",
+        "features": {
+            "edge_density": 0.05887246621621622,
+            "num_contours": 2045,
+            "avg_color": {
+                "blue": 192.37041216216215,
+                "green": 191.25055320945947,
+                "red": 191.60377111486486
+            }
+        },
+        "classifications": [
+            {
+                "label": "menu",
+                "confidence": 0.9888091683387756
+            },
+            {
+                "label": "monitor",
+                "confidence": 0.002560358727350831
+            },
+            {
+                "label": "binder",
+                "confidence": 0.002093449467793107
+            }
+        ],
+        "description": "This image appears to be a menu (98.9% confidence) The image is relatively smooth The dominant color tone is blue The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "IMG-20241028-WA0024.jpg": {
+        "timestamp": "2024-10-29T11:18:22.773203",
+        "features": {
+            "edge_density": 0.06028356481481482,
+            "num_contours": 857,
+            "avg_color": {
+                "blue": 179.29184413580248,
+                "green": 170.18219714506174,
+                "red": 169.99059992283952
+            }
+        },
+        "classifications": [
+            {
+                "label": "menu",
+                "confidence": 0.2137344777584076
+            },
+            {
+                "label": "envelope",
+                "confidence": 0.17141598463058472
+            },
+            {
+                "label": "binder",
+                "confidence": 0.11749550700187683
+            }
+        ],
+        "description": "This image appears to be a menu (21.4% confidence) The image is relatively smooth The dominant color tone is blue The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "IMG-20241028-WA0025.jpg": {
+        "timestamp": "2024-10-29T11:18:23.013986",
+        "features": {
+            "edge_density": 0.0834887386531961,
+            "num_contours": 1983,
+            "avg_color": {
+                "blue": 238.660002278856,
+                "green": 238.660002278856,
+                "red": 238.660002278856
+            }
+        },
+        "classifications": [
+            {
+                "label": "web_site",
+                "confidence": 0.36107462644577026
+            },
+            {
+                "label": "menu",
+                "confidence": 0.23697498440742493
+            },
+            {
+                "label": "binder",
+                "confidence": 0.20933976769447327
+            }
+        ],
+        "description": "This image appears to be a web site (36.1% confidence) The image is relatively smooth The dominant color tone is blue The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "IMG-20241028-WA0026.jpg": {
+        "timestamp": "2024-10-29T11:18:23.190514",
+        "features": {
+            "edge_density": 0.07281416787967006,
+            "num_contours": 847,
+            "avg_color": {
+                "blue": 180.78738961669094,
+                "green": 187.34479621542943,
+                "red": 192.22900533721497
+            }
+        },
+        "classifications": [
+            {
+                "label": "menu",
+                "confidence": 0.9733574986457825
+            },
+            {
+                "label": "crossword_puzzle",
+                "confidence": 0.009705859236419201
+            },
+            {
+                "label": "shower_curtain",
+                "confidence": 0.0068809944204986095
+            }
+        ],
+        "description": "This image appears to be a menu (97.3% confidence) The image is relatively smooth The dominant color tone is red The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "IMG-20241028-WA0027.jpg": {
+        "timestamp": "2024-10-29T11:18:23.355074",
+        "features": {
+            "edge_density": 0.05117153238942489,
+            "num_contours": 182,
+            "avg_color": {
+                "blue": 245.47413857912542,
+                "green": 244.07891868186945,
+                "red": 244.23770830722967
+            }
+        },
+        "classifications": [
+            {
+                "label": "web_site",
+                "confidence": 0.9123082756996155
+            },
+            {
+                "label": "menu",
+                "confidence": 0.039520472288131714
+            },
+            {
+                "label": "envelope",
+                "confidence": 0.03462884947657585
+            }
+        ],
+        "description": "This image appears to be a web site (91.2% confidence) The image is relatively smooth The dominant color tone is blue The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "IMG-20241028-WA0028.jpg": {
+        "timestamp": "2024-10-29T11:18:23.542571",
+        "features": {
+            "edge_density": 0.09302373740321206,
+            "num_contours": 619,
+            "avg_color": {
+                "blue": 190.68957636387938,
+                "green": 160.20158814127606,
+                "red": 140.37701600378023
+            }
+        },
+        "classifications": [
+            {
+                "label": "binder",
+                "confidence": 0.5686755180358887
+            },
+            {
+                "label": "menu",
+                "confidence": 0.04551346227526665
+            },
+            {
+                "label": "packet",
+                "confidence": 0.024424877017736435
+            }
+        ],
+        "description": "This image appears to be a binder (56.9% confidence) The image is relatively smooth The dominant color tone is blue The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "IMG-20241028-WA0029.jpg": {
+        "timestamp": "2024-10-29T11:18:23.724960",
+        "features": {
+            "edge_density": 0.038244524572649576,
+            "num_contours": 860,
+            "avg_color": {
+                "blue": 154.37291809752747,
+                "green": 150.8516543135684,
+                "red": 151.38006643963675
+            }
+        },
+        "classifications": [
+            {
+                "label": "menu",
+                "confidence": 0.9835029244422913
+            },
+            {
+                "label": "binder",
+                "confidence": 0.008834646083414555
+            },
+            {
+                "label": "crossword_puzzle",
+                "confidence": 0.0033987651113420725
+            }
+        ],
+        "description": "This image appears to be a menu (98.4% confidence) The image is relatively smooth The dominant color tone is blue The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "IMG-20241028-WA0030.jpg": {
+        "timestamp": "2024-10-29T11:18:24.013811",
+        "features": {
+            "edge_density": 0.04145491168267741,
+            "num_contours": 862,
+            "avg_color": {
+                "blue": 167.03624593275487,
+                "green": 156.95985629067243,
+                "red": 146.73965273473814
+            }
+        },
+        "classifications": [
+            {
+                "label": "menu",
+                "confidence": 0.462405800819397
+            },
+            {
+                "label": "binder",
+                "confidence": 0.4565986394882202
+            },
+            {
+                "label": "brass",
+                "confidence": 0.006402155850082636
+            }
+        ],
+        "description": "This image appears to be a menu (46.2% confidence) The image is relatively smooth The dominant color tone is blue The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "IMG-20241028-WA0031.jpg": {
+        "timestamp": "2024-10-29T11:18:24.266770",
+        "features": {
+            "edge_density": 0.04289094650205761,
+            "num_contours": 1027,
+            "avg_color": {
+                "blue": 181.91372042181072,
+                "green": 186.5685513117284,
+                "red": 187.17223636831278
+            }
+        },
+        "classifications": [
+            {
+                "label": "menu",
+                "confidence": 0.7927581667900085
+            },
+            {
+                "label": "crossword_puzzle",
+                "confidence": 0.13407862186431885
+            },
+            {
+                "label": "binder",
+                "confidence": 0.01191059872508049
+            }
+        ],
+        "description": "This image appears to be a menu (79.3% confidence) The image is relatively smooth The dominant color tone is red The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "IMG-20241028-WA0032.jpg": {
+        "timestamp": "2024-10-29T11:18:24.541890",
+        "features": {
+            "edge_density": 0.05999318943839061,
+            "num_contours": 1207,
+            "avg_color": {
+                "blue": 243.21615150880135,
+                "green": 242.87417487426654,
+                "red": 243.22065590947193
+            }
+        },
+        "classifications": [
+            {
+                "label": "web_site",
+                "confidence": 0.43154364824295044
+            },
+            {
+                "label": "menu",
+                "confidence": 0.11940605193376541
+            },
+            {
+                "label": "binder",
+                "confidence": 0.08021022379398346
+            }
+        ],
+        "description": "This image appears to be a web site (43.2% confidence) The image is relatively smooth The dominant color tone is red The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "IMG-20241028-WA0033.jpg": {
+        "timestamp": "2024-10-29T11:18:24.915038",
+        "features": {
+            "edge_density": 0.05999318943839061,
+            "num_contours": 1207,
+            "avg_color": {
+                "blue": 243.21615150880135,
+                "green": 242.87417487426654,
+                "red": 243.22065590947193
+            }
+        },
+        "classifications": [
+            {
+                "label": "web_site",
+                "confidence": 0.43154364824295044
+            },
+            {
+                "label": "menu",
+                "confidence": 0.11940605193376541
+            },
+            {
+                "label": "binder",
+                "confidence": 0.08021022379398346
+            }
+        ],
+        "description": "This image appears to be a web site (43.2% confidence) The image is relatively smooth The dominant color tone is red The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "IMG-20241028-WA0034.jpg": {
+        "timestamp": "2024-10-29T11:18:25.272594",
+        "features": {
+            "edge_density": 0.058721632167416146,
+            "num_contours": 780,
+            "avg_color": {
+                "blue": 245.08351559902715,
+                "green": 243.6690793784108,
+                "red": 243.85377722563425
+            }
+        },
+        "classifications": [
+            {
+                "label": "web_site",
+                "confidence": 0.8631287217140198
+            },
+            {
+                "label": "menu",
+                "confidence": 0.11187192797660828
+            },
+            {
+                "label": "envelope",
+                "confidence": 0.0037400764413177967
+            }
+        ],
+        "description": "This image appears to be a web site (86.3% confidence) The image is relatively smooth The dominant color tone is blue The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "IMG-20241028-WA0035.jpg": {
+        "timestamp": "2024-10-29T11:18:25.573789",
+        "features": {
+            "edge_density": 0.03527542372881356,
+            "num_contours": 851,
+            "avg_color": {
+                "blue": 246.61122175141242,
+                "green": 246.61122175141242,
+                "red": 246.61122175141242
+            }
+        },
+        "classifications": [
+            {
+                "label": "menu",
+                "confidence": 0.8501895070075989
+            },
+            {
+                "label": "web_site",
+                "confidence": 0.10135074704885483
+            },
+            {
+                "label": "crossword_puzzle",
+                "confidence": 0.02925441600382328
+            }
+        ],
+        "description": "This image appears to be a menu (85.0% confidence) The image is relatively smooth The dominant color tone is blue The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "IMG-20241028-WA0036.jpg": {
+        "timestamp": "2024-10-29T11:18:25.902908",
+        "features": {
+            "edge_density": 0.059001225490196076,
+            "num_contours": 4408,
+            "avg_color": {
+                "blue": 243.46474264705884,
+                "green": 243.45325469771245,
+                "red": 243.50391850490197
+            }
+        },
+        "classifications": [
+            {
+                "label": "menu",
+                "confidence": 0.8884188532829285
+            },
+            {
+                "label": "web_site",
+                "confidence": 0.0794130489230156
+            },
+            {
+                "label": "crossword_puzzle",
+                "confidence": 0.010767496190965176
+            }
+        ],
+        "description": "This image appears to be a menu (88.8% confidence) The image is relatively smooth The dominant color tone is red The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "IMG-20241028-WA0037.jpg": {
+        "timestamp": "2024-10-29T11:18:26.110353",
+        "features": {
+            "edge_density": 0.048131306966145836,
+            "num_contours": 766,
+            "avg_color": {
+                "blue": 243.30047353108722,
+                "green": 243.30047353108722,
+                "red": 243.30047353108722
+            }
+        },
+        "classifications": [
+            {
+                "label": "web_site",
+                "confidence": 0.8280265927314758
+            },
+            {
+                "label": "menu",
+                "confidence": 0.09838850796222687
+            },
+            {
+                "label": "crossword_puzzle",
+                "confidence": 0.00465580215677619
+            }
+        ],
+        "description": "This image appears to be a web site (82.8% confidence) The image is relatively smooth The dominant color tone is blue The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "IMG-20241028-WA0038.jpg": {
+        "timestamp": "2024-10-29T11:18:26.308843",
+        "features": {
+            "edge_density": 0.04718169198057672,
+            "num_contours": 632,
+            "avg_color": {
+                "blue": 209.75714754309612,
+                "green": 198.51533380583362,
+                "red": 198.92300978778488
+            }
+        },
+        "classifications": [
+            {
+                "label": "web_site",
+                "confidence": 0.8989064693450928
+            },
+            {
+                "label": "menu",
+                "confidence": 0.07665973901748657
+            },
+            {
+                "label": "binder",
+                "confidence": 0.012053418904542923
+            }
+        ],
+        "description": "This image appears to be a web site (89.9% confidence) The image is relatively smooth The dominant color tone is blue The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "IMG-20241028-WA0039.jpg": {
+        "timestamp": "2024-10-29T11:18:26.695522",
+        "features": {
+            "edge_density": 0.044628875968992246,
+            "num_contours": 958,
+            "avg_color": {
+                "blue": 197.9829210271318,
+                "green": 199.68541618217054,
+                "red": 200.68726550387598
+            }
+        },
+        "classifications": [
+            {
+                "label": "menu",
+                "confidence": 0.7147203683853149
+            },
+            {
+                "label": "binder",
+                "confidence": 0.1315736621618271
+            },
+            {
+                "label": "crossword_puzzle",
+                "confidence": 0.032407112419605255
+            }
+        ],
+        "description": "This image appears to be a menu (71.5% confidence) The image is relatively smooth The dominant color tone is red The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "IMG-20241028-WA0040.jpg": {
+        "timestamp": "2024-10-29T11:18:26.859095",
+        "features": {
+            "edge_density": 0.04826027397260274,
+            "num_contours": 1,
+            "avg_color": {
+                "blue": 245.82873287671234,
+                "green": 245.57330365296804,
+                "red": 245.32273515981737
+            }
+        },
+        "classifications": [
+            {
+                "label": "web_site",
+                "confidence": 0.9616208076477051
+            },
+            {
+                "label": "menu",
+                "confidence": 0.0177712794393301
+            },
+            {
+                "label": "envelope",
+                "confidence": 0.005058588460087776
+            }
+        ],
+        "description": "This image appears to be a web site (96.2% confidence) The image is relatively smooth The dominant color tone is blue The image has a simple composition",
+        "automated": true
+    },
+    "IMG-20241028-WA0041.jpg": {
+        "timestamp": "2024-10-29T11:18:27.053089",
+        "features": {
+            "edge_density": 0.04905872723552281,
+            "num_contours": 766,
+            "avg_color": {
+                "blue": 244.30220994475135,
+                "green": 244.30954573357886,
+                "red": 244.3083742582361
+            }
+        },
+        "classifications": [
+            {
+                "label": "web_site",
+                "confidence": 0.6985591053962708
+            },
+            {
+                "label": "menu",
+                "confidence": 0.21795149147510529
+            },
+            {
+                "label": "binder",
+                "confidence": 0.015406878665089607
+            }
+        ],
+        "description": "This image appears to be a web site (69.9% confidence) The image is relatively smooth The dominant color tone is green The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "invoice_103099-1.jpg": {
+        "timestamp": "2024-10-29T11:18:27.249662",
+        "features": {
+            "edge_density": 0.04358018252933507,
+            "num_contours": 1205,
+            "avg_color": {
+                "blue": 246.6772033898305,
+                "green": 246.67724380704044,
+                "red": 246.69070664928293
+            }
+        },
+        "classifications": [
+            {
+                "label": "menu",
+                "confidence": 0.7125794291496277
+            },
+            {
+                "label": "web_site",
+                "confidence": 0.27674099802970886
+            },
+            {
+                "label": "binder",
+                "confidence": 0.001975828316062689
+            }
+        ],
+        "description": "This image appears to be a menu (71.3% confidence) The image is relatively smooth The dominant color tone is red The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "large (1).png": {
+        "timestamp": "2024-10-29T11:18:27.403471",
+        "features": {
+            "edge_density": 0.0395609273538961,
+            "num_contours": 726,
+            "avg_color": {
+                "blue": 248.23512327516235,
+                "green": 248.23512327516235,
+                "red": 248.23512327516235
+            }
+        },
+        "classifications": [
+            {
+                "label": "web_site",
+                "confidence": 0.8795942664146423
+            },
+            {
+                "label": "menu",
+                "confidence": 0.10541233420372009
+            },
+            {
+                "label": "binder",
+                "confidence": 0.0026444774121046066
+            }
+        ],
+        "description": "This image appears to be a web site (88.0% confidence) The image is relatively smooth The dominant color tone is blue The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "large (2).png": {
+        "timestamp": "2024-10-29T11:18:27.605937",
+        "features": {
+            "edge_density": 0.06938286323051948,
+            "num_contours": 1799,
+            "avg_color": {
+                "blue": 241.39063768262986,
+                "green": 227.9835861404221,
+                "red": 231.25627536525974
+            }
+        },
+        "classifications": [
+            {
+                "label": "web_site",
+                "confidence": 0.9664754867553711
+            },
+            {
+                "label": "menu",
+                "confidence": 0.03086039051413536
+            },
+            {
+                "label": "monitor",
+                "confidence": 0.000528298201970756
+            }
+        ],
+        "description": "This image appears to be a web site (96.6% confidence) The image is relatively smooth The dominant color tone is blue The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "large.png": {
+        "timestamp": "2024-10-29T11:18:27.764505",
+        "features": {
+            "edge_density": 0.03433314732142857,
+            "num_contours": 600,
+            "avg_color": {
+                "blue": 249.16993455762986,
+                "green": 249.16993455762986,
+                "red": 249.16993455762986
+            }
+        },
+        "classifications": [
+            {
+                "label": "web_site",
+                "confidence": 0.8928050398826599
+            },
+            {
+                "label": "menu",
+                "confidence": 0.10005795210599899
+            },
+            {
+                "label": "envelope",
+                "confidence": 0.0014299053000286222
+            }
+        ],
+        "description": "This image appears to be a web site (89.3% confidence) The image is relatively smooth The dominant color tone is blue The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "Medical-Receipt.jpg": {
+        "timestamp": "2024-10-29T11:18:27.956002",
+        "features": {
+            "edge_density": 0.07410528273809523,
+            "num_contours": 956,
+            "avg_color": {
+                "blue": 233.84250186011906,
+                "green": 233.84250186011906,
+                "red": 233.84250186011906
+            }
+        },
+        "classifications": [
+            {
+                "label": "web_site",
+                "confidence": 0.824235737323761
+            },
+            {
+                "label": "menu",
+                "confidence": 0.10596085339784622
+            },
+            {
+                "label": "crossword_puzzle",
+                "confidence": 0.007236294448375702
+            }
+        ],
+        "description": "This image appears to be a web site (82.4% confidence) The image is relatively smooth The dominant color tone is blue The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "OIP (1).jpg": {
+        "timestamp": "2024-10-29T11:18:28.106590",
+        "features": {
+            "edge_density": 0.07246646154693319,
+            "num_contours": 169,
+            "avg_color": {
+                "blue": 243.84121461168357,
+                "green": 244.39085289886498,
+                "red": 244.49117916313904
+            }
+        },
+        "classifications": [
+            {
+                "label": "web_site",
+                "confidence": 0.5082194805145264
+            },
+            {
+                "label": "menu",
+                "confidence": 0.4296431839466095
+            },
+            {
+                "label": "monitor",
+                "confidence": 0.016602898016572
+            }
+        ],
+        "description": "This image appears to be a web site (50.8% confidence) The image is relatively smooth The dominant color tone is red The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "payment-receipt-sample-hospital-bill-format-hospitalbill-768x994.jpg": {
+        "timestamp": "2024-10-29T11:18:28.296102",
+        "features": {
+            "edge_density": 0.06982402912621359,
+            "num_contours": 940,
+            "avg_color": {
+                "blue": 238.00595469255663,
+                "green": 230.13622977346276,
+                "red": 216.62829692556633
+            }
+        },
+        "classifications": [
+            {
+                "label": "web_site",
+                "confidence": 0.9984830021858215
+            },
+            {
+                "label": "menu",
+                "confidence": 0.0012198712211102247
+            },
+            {
+                "label": "monitor",
+                "confidence": 7.2325965447817e-05
+            }
+        ],
+        "description": "This image appears to be a web site (99.8% confidence) The image is relatively smooth The dominant color tone is blue The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "sample-doctor-bill-1-788x1020.jpg": {
+        "timestamp": "2024-10-29T11:18:28.512696",
+        "features": {
+            "edge_density": 0.07102368866328257,
+            "num_contours": 1,
+            "avg_color": {
+                "blue": 238.55731063999204,
+                "green": 238.4185167214094,
+                "red": 237.6487247437046
+            }
+        },
+        "classifications": [
+            {
+                "label": "web_site",
+                "confidence": 0.9643776416778564
+            },
+            {
+                "label": "monitor",
+                "confidence": 0.008098308928310871
+            },
+            {
+                "label": "menu",
+                "confidence": 0.005906849633902311
+            }
+        ],
+        "description": "This image appears to be a web site (96.4% confidence) The image is relatively smooth The dominant color tone is blue The image has a simple composition",
+        "automated": true
+    },
+    "Sample-Doctors-Recipt-Template.jpg": {
+        "timestamp": "2024-10-29T11:18:28.741615",
+        "features": {
+            "edge_density": 0.03909286186384666,
+            "num_contours": 1,
+            "avg_color": {
+                "blue": 248.2776966292135,
+                "green": 248.3781080634501,
+                "red": 248.34923661599473
+            }
+        },
+        "classifications": [
+            {
+                "label": "web_site",
+                "confidence": 0.9274416565895081
+            },
+            {
+                "label": "menu",
+                "confidence": 0.0681748241186142
+            },
+            {
+                "label": "envelope",
+                "confidence": 0.0008808245765976608
+            }
+        ],
+        "description": "This image appears to be a web site (92.7% confidence) The image is relatively smooth The dominant color tone is green The image has a simple composition",
+        "automated": true
+    },
+    "Screen Shot 2021-07-24 at 2.05.54 AM.png": {
+        "timestamp": "2024-10-29T11:18:28.975988",
+        "features": {
+            "edge_density": 0.022450932343811993,
+            "num_contours": 523,
+            "avg_color": {
+                "blue": 248.42721663412345,
+                "green": 248.42721663412345,
+                "red": 248.42721663412345
+            }
+        },
+        "classifications": [
+            {
+                "label": "web_site",
+                "confidence": 0.934410035610199
+            },
+            {
+                "label": "menu",
+                "confidence": 0.06337206065654755
+            },
+            {
+                "label": "envelope",
+                "confidence": 0.00024517535348422825
+            }
+        ],
+        "description": "This image appears to be a web site (93.4% confidence) The image is relatively smooth The dominant color tone is blue The image is complex with many distinct shapes",
+        "automated": true
+    },
+    "thumb_1200_1553.png": {
+        "timestamp": "2024-10-29T11:18:29.215346",
+        "features": {
+            "edge_density": 0.03812137797810689,
+            "num_contours": 1825,
+            "avg_color": {
+                "blue": 245.7247526293196,
+                "green": 245.65499356084996,
+                "red": 245.98863382700148
+            }
+        },
+        "classifications": [
+            {
+                "label": "web_site",
+                "confidence": 0.925605058670044
+            },
+            {
+                "label": "menu",
+                "confidence": 0.05517568439245224
+            },
+            {
+                "label": "envelope",
+                "confidence": 0.001626660698093474
+            }
+        ],
+        "description": "This image appears to be a web site (92.6% confidence) The image is relatively smooth The dominant color tone is red The image is complex with many distinct shapes",
+        "automated": true
+    }
+}

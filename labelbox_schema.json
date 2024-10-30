@@ -1,0 +1,147 @@
+{
+  "tools": [
+    {
+      "name": "entities",
+      "tool_type": "rectangle",
+      "classifications": [
+        {
+          "name": "entity_type",
+          "instructions": "Select the type of healthcare entity",
+          "type": "radio",
+          "options": [
+            {
+              "value": "provider_name",
+              "label": "Provider Name",
+              "description": "Name of healthcare provider"
+            },
+            {
+              "value": "patient_info",
+              "label": "Patient Information",
+              "description": "Patient demographic or identification information"
+            },
+            {
+              "value": "diagnosis",
+              "label": "Diagnosis",
+              "description": "Medical diagnosis or condition"
+            },
+            {
+              "value": "procedure",
+              "label": "Procedure",
+              "description": "Medical procedure or treatment"
+            },
+            {
+              "value": "medication",
+              "label": "Medication",
+              "description": "Prescribed or administered medications"
+            },
+            {
+              "value": "date",
+              "label": "Date",
+              "description": "Any date mentioned in the document"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "relationships",
+      "tool_type": "relationship",
+      "classifications": [
+        {
+          "name": "relationship_type",
+          "instructions": "Select the type of relationship between entities",
+          "type": "radio",
+          "options": [
+            {
+              "value": "provides_care",
+              "label": "Provides Care",
+              "description": "Provider-patient care relationship"
+            },
+            {
+              "value": "prescribes",
+              "label": "Prescribes",
+              "description": "Provider prescribing medication"
+            },
+            {
+              "value": "performs",
+              "label": "Performs",
+              "description": "Provider performing procedure"
+            },
+            {
+              "value": "diagnoses",
+              "label": "Diagnoses",
+              "description": "Provider making diagnosis"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "classifications": [
+    {
+      "name": "service_category",
+      "instructions": "Select all applicable service categories",
+      "type": "checklist",
+      "options": [
+        {
+          "value": "primary_care",
+          "label": "Primary Care"
+        },
+        {
+          "value": "specialty_care",
+          "label": "Specialty Care"
+        },
+        {
+          "value": "emergency",
+          "label": "Emergency"
+        },
+        {
+          "value": "surgery",
+          "label": "Surgery"
+        },
+        {
+          "value": "diagnostic",
+          "label": "Diagnostic"
+        },
+        {
+          "value": "preventive",
+          "label": "Preventive Care"
+        }
+      ]
+    },
+    {
+      "name": "urgency_level",
+      "instructions": "Select the urgency level of the service",
+      "type": "radio",
+      "options": [
+        {
+          "value": "routine",
+          "label": "Routine"
+        },
+        {
+          "value": "urgent",
+          "label": "Urgent"
+        },
+        {
+          "value": "emergency",
+          "label": "Emergency"
+        }
+      ]
+    }
+  ],
+  "required_fields": [
+    "entities",
+    "service_category",
+    "urgency_level"
+  ],
+  "validation_rules": {
+    "min_entities": 1,
+    "max_entities": 100,
+    "allowed_entity_relationships": [
+      ["provider_name", "patient_info"],
+      ["provider_name", "diagnosis"],
+      ["provider_name", "procedure"],
+      ["provider_name", "medication"]
+    ]
+  }
+}
