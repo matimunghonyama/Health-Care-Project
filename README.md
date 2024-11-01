@@ -137,6 +137,6 @@ Health-Care-Project/
 [MIT License](LICENSE)
 
 ## Contact
-Mati Munghonyama - [Your Contact Information]
+Matimu Munghonyama - nghonyamamatimu@gmail.com
 
 Project Link: [https://github.com/matimunghonyama/Health-Care-Project](https://github.com/matimunghonyama/Health-Care-Project)
